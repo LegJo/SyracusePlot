@@ -1,0 +1,18 @@
+Valeurs entrées en paramètres : Min=100 Max=500
+
+Max Altitude Maximale = 39364
+Min Altitude Maximale = 100
+Moyenne Altitudes Maximales= 4277
+
+Max Durée de Vol = 143
+Min Durée de Vol = 7
+Moyenne Durée de Vol = 57
+
+Max Durée Plus Long Vol en Altitude = 68
+Min Durée Plus Long Vol en Altitude = 1
+Moyenne Durée Plus Long Vol en Altitude = 17
+Temps d'execution : 5 secondes 
+
+Somme Total Altitudes = 1715116 
+Somme Total Durée de Vol = 23026 
+Somme Total Durée Plus Long Vol en Altitude = 7060 

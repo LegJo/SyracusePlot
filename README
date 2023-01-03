@@ -1,0 +1,20 @@
+Le Script Shell se trouve dans le dossier SyracuseScript ; Et l'Algorithme C se trouve dans le dossier SyracuseC
+le script shell ./Syracuse.bash doit etre appelé selon la Syntaxe suivante :
+
+Syntaxe :
+./Syracuse.bash minimum maximum   
+Infos :
+- minimum and maximum need to be des nombres entiers positifs
+- minimum needs to be lower than and not equal to maximum 
+- minimum  and maximum cannot be equal to 0 
+- minimum and maximum must not start with 0
+- you need to install gnuplot  package for this script (using : sudo apt install gnuplot)
+- you can use ./Syracuse.bash -h for help 
+- you can use ./Syracuse.bash -clean for cleaning files of an old exec
+
+- les graphics se trouverons dans le dossier SyracuseScript/jpegDir/Graph-min-max
+- vous trouverez un fichier synthese-min-max.txt comprenant les stats de la derniere execution dans SyracuseScript
+
+
+
+
